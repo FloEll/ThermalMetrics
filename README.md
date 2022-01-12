@@ -1,5 +1,6 @@
 # ThermalMetrics
 This QGIS3 plugin helps to calculate basic metrics and indices (Shannon and Simpson Diversity Index) from thermal images. 
+I created a small tutorial for this plugin: https://ecothermographylab.com/thermal-metrics/
 
 # ThermalMetrics plugin for QGIS3
 This plugin helps to calculate several metrics and indices such as the Shannon Diversity Index and the Simpson Diversity Index from thermal images. It is especially useful for land, landscape and canopy surface temperature maps and images. However, it is still an experimental plugin and especially the patch detection functions still take quite long to calculate. It is a good idea to just grab a coffee (or any other hot beverage) and just wait until it is done calculating. It might sometimes look like QGIS crashed while it is calculating the patches, just wait, it will be fine. In a worst case it took ~7 min so far, depending on your raster size, it should take around 1-2 minutes usually.
@@ -12,6 +13,8 @@ If you have any problems using the plugin, if you found a bug or if you just wan
 3. More information
 
 # 1. How to run ThermalMetrics:
+I created a small tutorial for this plugin: https://ecothermographylab.com/thermal-metrics/
+
 To run the plugin please open the tab ThermalMetrics in the plugin user interface
 
 ## 1.1 Minimum requirements:
